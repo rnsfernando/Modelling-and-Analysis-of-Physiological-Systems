@@ -8,12 +8,12 @@ Welcome to the repository dedicated to modeling and analyzing physiological syst
 ## Key Projects
 
 ### Respiratory System Simulation
-![respiratory](images/respiratory system.jpeg)
+![respiratory](images/respiratory_system.jpeg)
 
 Explore the mechanics of breathing by simulating various respiratory conditions with MATLAB. This project demonstrates how normal, restrictive, and obstructive pulmonary diseases affect respiratory dynamics. Visualize changes in minute ventilation and understand the physiological impacts of different respiratory conditions.
 
 ### Dendritic Tree Modeling with Branched Cylinders
-![Branched cylinders](images/Dendritic Tree Approximation.png)
+![Branched cylinders](images/Dendritic_Tree_Approximation.png)
 
 This project focuses on the electrical properties of dendritic trees by modeling them as branched cables. MATLAB simulations help illustrate the behavior of axonal and dendritic trees, offering insights into how these structures contribute to physiological signaling processes.
 
