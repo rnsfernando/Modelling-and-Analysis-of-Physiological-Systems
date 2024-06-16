@@ -30,13 +30,7 @@ Investigate the complexities of heart function using simulation tools. This proj
 ## How to Use
 
 1. **Clone the Repository:** Download the repository to your local machine.
-    ```sh
-    git clone https://github.com/your-username/your-repository.git
-    ```
 2. **Select a Project:** Navigate to the directory of the project you wish to explore.
-    ```sh
-    cd your-repository/project-directory
-    ```
 3. **Follow Instructions:** Each project includes a README with specific instructions for running simulations.
 4. **Explore and Modify:** Use the provided MATLAB scripts, Simulink models, and documentation to delve into the physiological concepts and experiment with the simulations.
 
